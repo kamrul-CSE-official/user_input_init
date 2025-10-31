@@ -29,7 +29,7 @@ A simple Flutter app to type and post messages. Features a **dynamic clear icon*
 
 1. Clone the repo:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/kamrul-CSE-official/user_input_init.git>
 
 
 
