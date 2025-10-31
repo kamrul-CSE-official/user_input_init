@@ -31,12 +31,11 @@ A simple Flutter app to type and post messages. Features a **dynamic clear icon*
    ```bash
    git clone <repository-url>
 
-2. Clone the repo:
-    cd <project-folder>
+
 
 
 
 
 ---
 
-If you want, I can also make an **even more minimal one-page version** suitable for GitHub projects. Do you want me to do that?
+Developer: MD.Kamrul Hasan
